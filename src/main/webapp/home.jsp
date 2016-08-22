@@ -10,7 +10,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-HOME
+HOME 
 </body>
 
 </html>
